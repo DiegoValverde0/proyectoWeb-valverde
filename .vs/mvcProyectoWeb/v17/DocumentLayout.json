@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\diego\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\wwwroot\\js\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\wwwroot\\js\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\diego\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\diego\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\diego\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\diego\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFB2DD0-D89C-4AC8-BECA-8492DB6B4F26}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\diego\\source\\repos\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFB2DD0-D89C-4AC8-BECA-8492DB6B4F26}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFB2DD0-D89C-4AC8-BECA-8492DB6B4F26}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\diego\\source\\repos\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFB2DD0-D89C-4AC8-BECA-8492DB6B4F26}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\diego\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\diego\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\controllers\\almacencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\controllers\\almacencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\diego\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93417E7E-AF9F-4CCD-89F6-6E23507C154A}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T22:44:47.025Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T00:39:17.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:37:41.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "producto.js",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\wwwroot\\js\\producto.js",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\wwwroot\\js\\producto.js",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\wwwroot\\js\\producto.js",
+              "RelativeToolTip": "mvcProyectoWeb\\wwwroot\\js\\producto.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T00:34:41.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T00:33:34.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:27:50.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T22:46:26.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:36:52.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:44:10.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlmacenController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenController.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenController.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:35:53.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

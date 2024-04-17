@@ -1,0 +1,12 @@
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.deps.json
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.dll
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.pdb
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.AssemblyInfo.cs
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.dll
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\refint\mvcProyectoWeb.Models.dll
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.pdb
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\ref\mvcProyectoWeb.Models.dll
+C:\Users\diego\source\repos\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.sourcelink.json
