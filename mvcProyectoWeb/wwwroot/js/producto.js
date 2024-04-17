@@ -13,8 +13,8 @@ function cargarDatatable() {
         },
         "columns": [
             { "data": "id", "width": "5%" },
-            { "data": "NombreProducto", "width": "40%" },
-            { "data": "CantidadMinima", "width": "10%" },
+            { "data": "nombreProducto", "width": "40%" },
+            { "data": "cantidadMinima", "width": "10%" },
             {
                 "data": "id",
                 "render": function (data) {
